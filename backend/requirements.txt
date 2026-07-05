@@ -1,0 +1,6 @@
+# Backend dependencies are tracked in the root requirements.txt.
+# Install from the project root:
+#   pip install -r ../requirements.txt
+#
+# Direct deps used by this package (for reference — exact versions are in root):
+#   fastapi, uvicorn, pydantic, python-multipart, pillow
